@@ -1,1 +1,0 @@
-/home/liehann/repo/liehann/home/.vim
