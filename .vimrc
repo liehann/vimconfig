@@ -13,7 +13,8 @@ autocmd FileType html,xml,xsl let g:closetag_html_style=1
 set nocompatible
 
 " Do not display the toolbar
-set toolbar=
+set guioptions-=T
+
 
 " Syntax Highlighting
 syntax enable
