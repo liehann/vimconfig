@@ -67,3 +67,7 @@ command Wq wq
 command W w
 command Q q
 
+" Turn off visual bell
+set vb
+set t_vb=
+
