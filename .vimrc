@@ -1,3 +1,8 @@
+" Keyboard rebindings
+" Tarmak 1
+noremap n j
+noremap e k
+
 " Automatically detect filetypes
 filetype indent on
 filetype on
